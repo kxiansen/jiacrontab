@@ -1,0 +1,9 @@
+{
+  "Mail": {
+    "Host": "",
+    "User": "",
+    "Pass": "",
+    "Port": ""
+  },
+  "TaskList": null
+}
